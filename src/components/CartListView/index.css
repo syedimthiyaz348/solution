@@ -1,0 +1,21 @@
+.cart-list {
+  padding-left: 0px;
+  width: 100%;
+}
+.remove-all-button {
+  height: 40px;
+  border: none;
+  align-self: flex-end;
+  background-color: transparent;
+  font-size: 20px;
+  color: #0b69ff;
+}
+.cart-list-button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.cart-summary-view {
+  align-self: flex-end;
+}

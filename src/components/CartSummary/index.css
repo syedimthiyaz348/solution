@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.checkout-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+  border: none;
+  height: 40px;
+  border-radius: 8px;
+}
